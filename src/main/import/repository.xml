@@ -8,23 +8,6 @@
                                   jcr:primaryType="jnt:module">
          <portlets jcr:primaryType="jnt:portletFolder"/>
          <files jcr:primaryType="jnt:folder">
-            <css jcr:primaryType="jnt:folder">
-               <animate.custom.css jcr:primaryType="jnt:file">
-                  <jcr:content jcr:mimeType="text/css" jcr:primaryType="jnt:resource"/>
-               </animate.custom.css>
-            </css>
-            <js jcr:primaryType="jnt:folder">
-               <footer jcr:primaryType="jnt:folder">
-                  <custom.js jcr:primaryType="jnt:file">
-                     <jcr:content jcr:mimeType="text/javascript" jcr:primaryType="jnt:resource"/>
-                  </custom.js>
-               </footer>
-               <header jcr:primaryType="jnt:folder">
-                  <custom.js jcr:primaryType="jnt:file">
-                     <jcr:content jcr:mimeType="text/javascript" jcr:primaryType="jnt:resource"/>
-                  </custom.js>
-               </header>
-            </js>
             <media jcr:primaryType="jnt:folder">
                <images jcr:primaryType="jnt:folder">
                   <person jcr:primaryType="jnt:folder">
