@@ -23,12 +23,9 @@
 2. In the `Server` section expand the `Modules and Extensions` entry and click `Modules`.
 3. From the right panel, click `Available modules` and search for **industrial media**.
 
-    <!--![205]-->
+    ![200]
     
 4. Click the icon ![201] in the right of the package to download and install the module  
-  
-  in the jContent repository as presented in
- the image below.
  
 ### Use the module in existing website
 1. In jContent, go to `Administration` panel.
@@ -49,7 +46,8 @@
 1. You can browse the tree to discover the content.
 
     ![304]
-    
+
+[200]: ./doc/images/200_select_module.png
 [201]: ./doc/images/201_modules_download_icon.png
 [300]: ./doc/images/300_enable_onsite.png
 [301]: ./doc/images/301_search_module.png
